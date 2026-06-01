@@ -1,0 +1,12 @@
+Title: Invoice Report (placeholder)
+Type: Report
+Name: rptInvoice
+
+Controls expected:
+- txtInvoiceNumber
+- txtCustomerName
+- txtDate
+- subInvoiceLines (detail table)
+- txtBarcode (use barcode font)
+
+Note: This is a placeholder. Real Access report SaveAsText output requires Access. I can generate and upload it after creating the report in Access.

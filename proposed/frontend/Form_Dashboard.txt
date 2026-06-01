@@ -1,0 +1,15 @@
+Title: Dashboard (placeholder form)
+Type: Form
+Name: frmDashboard
+
+Controls Expected (place these on the form after import):
+- lblTodaySales (TextBox or Label)
+- lblMonthSales
+- lblProfit
+- lblCustomers
+- lblLowStock
+- subLatestSales (Subform control with linked form showing recent sales)
+
+Event: Form_Load -> Call LoadDashboard(Me)
+
+Note: This file is a placeholder. For a true importable form use Access SaveAsText to export a form from Access. If you want, I can create the form in Access and export the exact SaveAsText file and add it here, but I need to run Access for that step.
