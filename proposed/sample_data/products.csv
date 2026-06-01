@@ -1,0 +1,11 @@
+ProductName,QtyOnHand,ReorderLevel,UnitPrice,UnitCost
+Keyboard,25,5,15.00,8.00
+Mouse,40,10,8.50,3.50
+Monitor 22",10,3,120.00,80.00
+USB Cable,100,20,2.50,0.50
+Printer Ink,15,5,25.00,12.00
+Laptop Stand,12,2,30.00,18.00
+External HDD 1TB,8,2,65.00,45.00
+Webcam HD,20,5,35.00,20.00
+Router,9,3,55.00,35.00
+Scanner,5,2,150.00,100.00
